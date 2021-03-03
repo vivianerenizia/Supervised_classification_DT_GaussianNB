@@ -2,6 +2,8 @@
 
 >Status: Finalizado
 
+### Dataset: [Red Wine Quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) 
+
 ### Resultados da classficação:
 
 | Classificador | Acurácia | f1-score |
